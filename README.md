@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elania</h1>
-<h3 align="center">A passionate frontend developer from Loctudy</h3>
+<h3 align="center">A passionate developer from Loctudy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elania-marvers&label=Profile%20views&color=0e75b6&style=flat" alt="elania-marvers" /> </p>
 
